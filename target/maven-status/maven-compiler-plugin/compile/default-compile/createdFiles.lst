@@ -1,0 +1,5 @@
+META-INF/spring-autoconfigure-metadata.properties
+META-INF/spring-configuration-metadata.json
+com/ready2die/Holoman.class
+com/ready2die/HolomanConfiguration.class
+com/ready2die/HolomanProperties.class
